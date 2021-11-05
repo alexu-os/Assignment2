@@ -1,6 +1,8 @@
 # Assignment2
 The second Assignment for the OS course. The topic for this assignment would be pthreads!
 
+The assigment is available in a pdf version here.(https://github.com/alexu-os/Assignment2/blob/main/Assignment_2_-_pthreads.pdf)
+
 
 ## Objectives
 
