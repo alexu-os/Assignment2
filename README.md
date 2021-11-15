@@ -71,7 +71,7 @@ If the list is of length 0 or 1, then it is already sorted. Otherwise:
 
 So you are required to implement it using pthreads. Each time the list is divided; two threads are created to do merge-sort on each half separately. This step is repeated recursively until each sub-list has only one element.
 
-**The program should read two input matrices from a file in the following format:**
+**The program should read an array from a file in the following format:**
 
 ```
 [number of elements]
